@@ -236,7 +236,7 @@ PrefabInstance:
     - target: {fileID: 3864759905486627471, guid: 49c40a787a779934d942e3ffb98939c1,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0.1
       objectReference: {fileID: 0}
     - target: {fileID: 3864759905486627471, guid: 49c40a787a779934d942e3ffb98939c1,
         type: 3}
@@ -277,6 +277,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bee quad ECS
+      objectReference: {fileID: 0}
+    - target: {fileID: 9007137094746498557, guid: 49c40a787a779934d942e3ffb98939c1,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
